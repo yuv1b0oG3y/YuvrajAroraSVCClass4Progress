@@ -1,8 +1,8 @@
-var gameState = "levelThree";
+var gameState = "wait";
 var play,about,how,next,home
 var waitimg, backgroundIMG, backgroundIMG2
 var milleniumFalcon, milleniumFalconTwo, imperialTroop, laser, tatooine, rock;
-var score = 501;
+var score = 0;
 var milleniumFalconIMG, milleniumFalconTwoIMG, imperialTroopIMG, tatooineIMG, laserIMG, rockIMG;
 var lasers = []
 var imperialTroops = []
